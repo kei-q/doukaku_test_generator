@@ -1,0 +1,3 @@
+{{#tests}}
+{{input}},{{output}}
+{{/tests}}
