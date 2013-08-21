@@ -1,0 +1,1 @@
+testdata = [{{#tests}}("{{input}}","{{output}}"){{/tests}}]
